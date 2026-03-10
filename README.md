@@ -385,6 +385,11 @@ rm -rf lambda-package function.zip trust-policy.json dashboard.json
 - Apply Savings Plans or Reserved Instances
 - Monitor CloudWatch metrics for over-provisioning
 
+## Additional Documentation
+
+- **[ARCHITECTURE.md](./ARCHITECTURE.md)** - Deep dive into how Lambda Managed Instances work under the hood
+- **[test-deployment.sh](./test-deployment.sh)** - Automated testing script for your deployment
+
 ## References
 
 - [Lambda Managed Instances Documentation](https://docs.aws.amazon.com/lambda/latest/dg/lambda-managed-instances.html)
